@@ -1,1 +1,69 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 0d4766bb5b653ff60f0a5c21516fb36593bc2ad1 cinephile <example@example.com> 1686262934 -0300	commit (initial): Oscar #83
+0d4766bb5b653ff60f0a5c21516fb36593bc2ad1 fc9cdc4f1040208e91d125d6a19210133096eedf cinephile <example@example.com> 1686263135 -0300	commit (amend): Oscar #83
+fc9cdc4f1040208e91d125d6a19210133096eedf 0fb53f7bd096fccf5ef0b2daf3bc30c79d64ab36 cinephile <example@example.com> 1686263315 -0300	commit: 2011-03-04
+0fb53f7bd096fccf5ef0b2daf3bc30c79d64ab36 c09d9d6cf2d262b604d05f8c42f461bbffa71bf7 cinephile <example@example.com> 1686263378 -0300	commit: 2011-03-08
+c09d9d6cf2d262b604d05f8c42f461bbffa71bf7 1f9be67eb0ad3edff93822960f2921d7366936a4 cinephile <example@example.com> 1686263581 -0300	commit: Cannes #64
+1f9be67eb0ad3edff93822960f2921d7366936a4 873cf9000b65c91f6fbee5afb45b86b4f5496b76 cinephile <example@example.com> 1686263695 -0300	commit: 2011-05-27
+873cf9000b65c91f6fbee5afb45b86b4f5496b76 2396b0793d96d89d2758f5b6a460ef37713def65 cinephile <example@example.com> 1686263991 -0300	commit: 2011-08-26
+2396b0793d96d89d2758f5b6a460ef37713def65 28e9f49bc4f2bd987c155c0e66285296f9fca19e cinephile <example@example.com> 1686264077 -0300	commit: 2011-12-31
+28e9f49bc4f2bd987c155c0e66285296f9fca19e 8047bc9532953f393a64dfc0f3ed6cd02aaf32fc cinephile <example@example.com> 1686264249 -0300	commit: First step
+8047bc9532953f393a64dfc0f3ed6cd02aaf32fc 2597746b419ee7585c0bb0558cb82173fbcbb871 cinephile <example@example.com> 1686264253 -0300	rebase (start): checkout 2597746b419ee7585c0bb0558cb82173fbcbb871
+2597746b419ee7585c0bb0558cb82173fbcbb871 0c7f8c1c7e2fb34717c037e6931e651a1221f8e5 cinephile <example@example.com> 1686264354 -0300	rebase (continue): First step
+0c7f8c1c7e2fb34717c037e6931e651a1221f8e5 44879ee7e595e9917ed0e91d9ba05dc7c4543178 cinephile <example@example.com> 1686264377 -0300	rebase (continue): Oscar #83
+44879ee7e595e9917ed0e91d9ba05dc7c4543178 7a902924419a80f67c2af4377d56261f8dcf1003 cinephile <example@example.com> 1686264380 -0300	rebase (pick): 2011-03-04
+7a902924419a80f67c2af4377d56261f8dcf1003 d7e826a00b89b23554105f581468b48b799d8962 cinephile <example@example.com> 1686264380 -0300	rebase (pick): 2011-03-08
+d7e826a00b89b23554105f581468b48b799d8962 053ded6d60f3cf417cf5594ebb062b15a311ea74 cinephile <example@example.com> 1686264380 -0300	rebase (pick): Cannes #64
+053ded6d60f3cf417cf5594ebb062b15a311ea74 c3cab47bcf40dc1072cbbada651e4d425f231326 cinephile <example@example.com> 1686264380 -0300	rebase (pick): 2011-05-27
+c3cab47bcf40dc1072cbbada651e4d425f231326 a02697ff3f5ff464b307ebaf741246e63521da7e cinephile <example@example.com> 1686264446 -0300	rebase (continue): 2011-08-26
+a02697ff3f5ff464b307ebaf741246e63521da7e 33203b592defc6b565fe69f3b77fb66ffaa0343b cinephile <example@example.com> 1686264466 -0300	rebase (continue): 2011-12-31
+33203b592defc6b565fe69f3b77fb66ffaa0343b 33203b592defc6b565fe69f3b77fb66ffaa0343b cinephile <example@example.com> 1686264468 -0300	rebase (finish): returning to refs/heads/main
+33203b592defc6b565fe69f3b77fb66ffaa0343b 34346edb967e820f652976735fe19cfd74f40eae cinephile <example@example.com> 1686264522 -0300	rebase (start): checkout 34346edb967e820f652976735fe19cfd74f40eae
+34346edb967e820f652976735fe19cfd74f40eae 2597746b419ee7585c0bb0558cb82173fbcbb871 cinephile <example@example.com> 1686264522 -0300	rebase: fast-forward
+2597746b419ee7585c0bb0558cb82173fbcbb871 cde9c2850db349f8035732a88bd67ba36bfca2b6 cinephile <example@example.com> 1686264528 -0300	rebase (fixup):
+cde9c2850db349f8035732a88bd67ba36bfca2b6 420f532c4faafecc474823ac0357cde55ec15a82 cinephile <example@example.com> 1686264529 -0300	rebase (pick): Oscar #83
+420f532c4faafecc474823ac0357cde55ec15a82 12dc40e9d087a9c03a042994c6fcb0a066ec1bd1 cinephile <example@example.com> 1686264529 -0300	rebase (pick): 2011-03-04
+12dc40e9d087a9c03a042994c6fcb0a066ec1bd1 9bc0089d2a74bb1d2e6d9dc81c423b51926847ed cinephile <example@example.com> 1686264529 -0300	rebase (pick): 2011-03-08
+9bc0089d2a74bb1d2e6d9dc81c423b51926847ed 8b6fe3a4e803a6f5901a08d23e01e077f63210f4 cinephile <example@example.com> 1686264529 -0300	rebase (pick): Cannes #64
+8b6fe3a4e803a6f5901a08d23e01e077f63210f4 12ebafa953f3ad801f32dd7aea67ce3fce2e3a10 cinephile <example@example.com> 1686264529 -0300	rebase (pick): 2011-05-27
+12ebafa953f3ad801f32dd7aea67ce3fce2e3a10 35438a2d84a7d452e6813981128078ce94b4da4f cinephile <example@example.com> 1686264529 -0300	rebase (pick): 2011-08-26
+35438a2d84a7d452e6813981128078ce94b4da4f d85412864a95a04bf3304a6032a6f444d0548bf2 cinephile <example@example.com> 1686264529 -0300	rebase (pick): 2011-12-31
+d85412864a95a04bf3304a6032a6f444d0548bf2 d85412864a95a04bf3304a6032a6f444d0548bf2 cinephile <example@example.com> 1686264529 -0300	rebase (finish): returning to refs/heads/main
+d85412864a95a04bf3304a6032a6f444d0548bf2 2597746b419ee7585c0bb0558cb82173fbcbb871 cinephile <example@example.com> 1686264574 -0300	reset: moving to 2597746
+2597746b419ee7585c0bb0558cb82173fbcbb871 34346edb967e820f652976735fe19cfd74f40eae cinephile <example@example.com> 1686264602 -0300	reset: moving to 34346ed
+34346edb967e820f652976735fe19cfd74f40eae 33203b592defc6b565fe69f3b77fb66ffaa0343b cinephile <example@example.com> 1686264628 -0300	reset: moving to 33203b5
+33203b592defc6b565fe69f3b77fb66ffaa0343b f161b96ddefec9595e162b29f7ce6e53e1ed0dd6 cinephile <example@example.com> 1686264638 -0300	rebase (start): checkout f161b96ddefec9595e162b29f7ce6e53e1ed0dd6
+f161b96ddefec9595e162b29f7ce6e53e1ed0dd6 2597746b419ee7585c0bb0558cb82173fbcbb871 cinephile <example@example.com> 1686264638 -0300	rebase: fast-forward
+2597746b419ee7585c0bb0558cb82173fbcbb871 53e6ab322a106dcd8f1134992e56a5e066d452a0 cinephile <example@example.com> 1686264651 -0300	rebase (squash): First step
+53e6ab322a106dcd8f1134992e56a5e066d452a0 2f11840af1a9885b629452e61ff6a45e270b9a15 cinephile <example@example.com> 1686264657 -0300	rebase (pick): Oscar #83
+2f11840af1a9885b629452e61ff6a45e270b9a15 0aed2a721ee43c97bdbac3c6d9993ff2acc1bfc0 cinephile <example@example.com> 1686264657 -0300	rebase (pick): 2011-03-04
+0aed2a721ee43c97bdbac3c6d9993ff2acc1bfc0 cfd9f148176c5c95f06bafaa2e9417563e8cbc12 cinephile <example@example.com> 1686264657 -0300	rebase (pick): 2011-03-08
+cfd9f148176c5c95f06bafaa2e9417563e8cbc12 e7184bd22eb5124e7d0d57e8da59217ea05ead26 cinephile <example@example.com> 1686264657 -0300	rebase (pick): Cannes #64
+e7184bd22eb5124e7d0d57e8da59217ea05ead26 28128c8f0c28b0cf770f9cc2950f6648df27ba0f cinephile <example@example.com> 1686264657 -0300	rebase (pick): 2011-05-27
+28128c8f0c28b0cf770f9cc2950f6648df27ba0f 3b84b28e203bf8d7d8e0de3cfe4c0d7443b38ce6 cinephile <example@example.com> 1686264657 -0300	rebase (pick): 2011-08-26
+3b84b28e203bf8d7d8e0de3cfe4c0d7443b38ce6 29fc9856916985962a4d9466a9b292a68762011d cinephile <example@example.com> 1686264657 -0300	rebase (pick): 2011-12-31
+29fc9856916985962a4d9466a9b292a68762011d 29fc9856916985962a4d9466a9b292a68762011d cinephile <example@example.com> 1686264657 -0300	rebase (finish): returning to refs/heads/main
+29fc9856916985962a4d9466a9b292a68762011d 9c810f38771632eb7759057a39309dc13ce1442a cinephile <example@example.com> 1686264956 -0300	commit: Oscar #84
+9c810f38771632eb7759057a39309dc13ce1442a 1d1a16f678f77b502677361a2191f39b67f21141 cinephile <example@example.com> 1686265180 -0300	commit: Cannes #65
+1d1a16f678f77b502677361a2191f39b67f21141 2c0feda7148678be914ce8ad97b735eb9c055d6b cinephile <example@example.com> 1686265252 -0300	commit: 2012-06-29
+2c0feda7148678be914ce8ad97b735eb9c055d6b 4ed58aa5873b9f7e42ad1d637b2b20c134dcd806 cinephile <example@example.com> 1686265313 -0300	commit: 2012-08-31
+4ed58aa5873b9f7e42ad1d637b2b20c134dcd806 424cd7de30226c2719039a41779131e5df0af222 cinephile <example@example.com> 1686265350 -0300	commit: 2012-10-26
+424cd7de30226c2719039a41779131e5df0af222 b01d659d4c56c1d4ccb45e9c2cdcd262c4d27629 cinephile <example@example.com> 1686265410 -0300	commit: 2012-12-28
+b01d659d4c56c1d4ccb45e9c2cdcd262c4d27629 e58816d663ea0f8d69efc135a5e02165dd950a48 cinephile <example@example.com> 1686265461 -0300	commit: Finish
+e58816d663ea0f8d69efc135a5e02165dd950a48 639a222fbe5d5ac30ee9ba22ba97e9cb806a39b8 cinephile <example@example.com> 1686270829 -0300	rebase (start): checkout 639a222fbe5d5ac30ee9ba22ba97e9cb806a39b8
+639a222fbe5d5ac30ee9ba22ba97e9cb806a39b8 53e6ab322a106dcd8f1134992e56a5e066d452a0 cinephile <example@example.com> 1686270829 -0300	rebase: fast-forward
+53e6ab322a106dcd8f1134992e56a5e066d452a0 a0d292d9dcb976c5c8f66ffdf90583ca4c7c929a cinephile <example@example.com> 1686270837 -0300	rebase (reword): Start
+a0d292d9dcb976c5c8f66ffdf90583ca4c7c929a 6c537a6f59102cf58f751d803376bd0e850cd36e cinephile <example@example.com> 1686270843 -0300	rebase (pick): Oscar #83
+6c537a6f59102cf58f751d803376bd0e850cd36e e3a7d50699f94a4569ed420fa29c1dab0cbdbde4 cinephile <example@example.com> 1686270843 -0300	rebase (pick): 2011-03-04
+e3a7d50699f94a4569ed420fa29c1dab0cbdbde4 fa9eb2ef18a9920b2c80b331ce3195c9e5a313db cinephile <example@example.com> 1686270843 -0300	rebase (pick): 2011-03-08
+fa9eb2ef18a9920b2c80b331ce3195c9e5a313db c985f54842b4d449a07fcf246d641352dcfe7b1e cinephile <example@example.com> 1686270843 -0300	rebase (pick): Cannes #64
+c985f54842b4d449a07fcf246d641352dcfe7b1e 1a84f4a256e11614021355e5b6f881ba46ad1bf8 cinephile <example@example.com> 1686270843 -0300	rebase (pick): 2011-05-27
+1a84f4a256e11614021355e5b6f881ba46ad1bf8 ee4ad547ef05b78c7c406d95f43502d4af9a33f6 cinephile <example@example.com> 1686270843 -0300	rebase (pick): 2011-08-26
+ee4ad547ef05b78c7c406d95f43502d4af9a33f6 66f7d58b86851205f9d5d2fdf375d7334e288ad6 cinephile <example@example.com> 1686270843 -0300	rebase (pick): 2011-12-31
+66f7d58b86851205f9d5d2fdf375d7334e288ad6 902c5384c8d858520d09511f70d49056bfc4e292 cinephile <example@example.com> 1686270843 -0300	rebase (pick): Oscar #84
+902c5384c8d858520d09511f70d49056bfc4e292 f03339d1a8622733302f72789bee1b6f5d26d04c cinephile <example@example.com> 1686270843 -0300	rebase (pick): Cannes #65
+f03339d1a8622733302f72789bee1b6f5d26d04c 5700d75e05e658284b89177cc4a3ee270c3394ba cinephile <example@example.com> 1686270843 -0300	rebase (pick): 2012-06-29
+5700d75e05e658284b89177cc4a3ee270c3394ba 3a46a15197f2874f1e637f322c0811266a8da0f0 cinephile <example@example.com> 1686270843 -0300	rebase (pick): 2012-08-31
+3a46a15197f2874f1e637f322c0811266a8da0f0 7396a4ddde45132d1310112a21c98bd5642a3871 cinephile <example@example.com> 1686270843 -0300	rebase (pick): 2012-10-26
+7396a4ddde45132d1310112a21c98bd5642a3871 2dd1ad5d312022bf6c7cc40374153248e69b58fa cinephile <example@example.com> 1686270843 -0300	rebase (pick): 2012-12-28
+2dd1ad5d312022bf6c7cc40374153248e69b58fa 90c30e2c336eb88f655bfce562fd4ef64165e329 cinephile <example@example.com> 1686270843 -0300	rebase (pick): Finish
+90c30e2c336eb88f655bfce562fd4ef64165e329 90c30e2c336eb88f655bfce562fd4ef64165e329 cinephile <example@example.com> 1686270843 -0300	rebase (finish): returning to refs/heads/main
