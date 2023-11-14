@@ -1,0 +1,21 @@
+Start
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Thu Jun 8 19:44:13 2023 -0300
+#
+# interactive rebase in progress; onto 639a222
+# Last command done (1 command done):
+#    reword 53e6ab3 First step
+# Next commands to do (14 remaining commands):
+#    pick 2f11840 Oscar #83
+#    pick 0aed2a7 2011-03-04
+# You are currently editing a commit while rebasing branch 'main' on '639a222'.
+#
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   movies.txt
+#
